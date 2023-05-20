@@ -1,1 +1,0 @@
-# Proyecto-medici-n-y-calidad
