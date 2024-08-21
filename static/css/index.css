@@ -85,6 +85,7 @@
     max-height: 600px;
     min-height: 500px;
 }
+
 @media(max-width: 1200px) {
     .titulo-banner h1 {
         font-size: 5em !important;
